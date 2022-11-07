@@ -1,0 +1,6 @@
+Aplikacja jest przystosowana do korzystania z serwera o nazwie "(localdb)\mssqllocaldb" oraz bazy danych "RaportsLSI". W przypadku użycia innych nazw 
+niezbędna może się okazać zmiana tzw. "connection string" znajdującego się w pliku "App.config".
+
+Skrypt do stworzenia przykładowej bazy danych znajduje się w tym folderze i nazywa się "Create database.sql".
+
+Ponadto aplikacja jest przystosowana do bazy danych wykorzystującej format daty "miesiąc-dzień-rok". Użycie innego formatu może wywołać błędy.
